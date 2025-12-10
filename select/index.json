@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Shoot",
+  "base_artist": "イザーク・ジュール (CV: 関 智一)",
+  "createdAt": "2025-12-10T05:56:41.639288Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shoot Me Straight",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/01_Shoot_Me_Straight_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shoot Me Straight - Live",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/02_Shoot_Me_Straight_-_Live_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shoot Me Straight (Live)",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/03_Shoot_Me_Straight_(Live)_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shoot Me Straight - Radio Edit",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/04_Shoot_Me_Straight_-_Radio_Edit_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shoot The Moon",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/05_Shoot_The_Moon_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Point and Shoot",
+      "artist": "Yo La Tengo",
+      "has_synced": true,
+      "path": "select/06_Point_and_Shoot_Yo_La_Tengo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shoot a Gun",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/07_Shoot_a_Gun_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shoot Me Down",
+      "artist": "Lil Wayne feat. D. Smith",
+      "has_synced": true,
+      "path": "select/08_Shoot_Me_Down_Lil_Wayne_feat._D._Smith.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shoot Me Down (Feat. D. Smith)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/09_Shoot_Me_Down_(Feat._D._Smith)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shoot Out The Roof",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/10_Shoot_Out_The_Roof_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shoot for the Stars (feat. Fivio Foreign)",
+      "artist": "Lil Tjay",
+      "has_synced": false,
+      "path": "select/11_Shoot_for_the_Stars_(feat._Fivio_Foreign)_Lil_Tjay.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Afraid to Shoot Strangers",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/12_Afraid_to_Shoot_Strangers_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shoot 'em Up",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/13_Shoot_'em_Up_Nas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shoot Speed/Kill Light",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/14_Shoot_Speed_Kill_Light_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shoot Speed \u0000 Kill Light",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/15_Shoot_Speed_\u0000_Kill_Light_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shoot Speed / Kill Light (Live At The Zepp)",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/16_Shoot_Speed___Kill_Light_(Live_At_The_Zepp)_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shoot Speed \u0000 Kill Light (Live at the Zepp)",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/17_Shoot_Speed_\u0000_Kill_Light_(Live_at_the_Zepp)_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Shoot Speed/Kill Light - Live",
+      "artist": "Primal Scream",
+      "has_synced": false,
+      "path": "select/18_Shoot_Speed_Kill_Light_-_Live_Primal_Scream.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Don't Shoot",
+      "artist": "Isaiah Rashad",
+      "has_synced": true,
+      "path": "select/19_Don't_Shoot_Isaiah_Rashad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shoot",
+      "artist": "イザーク・ジュール (CV: 関 智一)",
+      "has_synced": false,
+      "path": "select/pl_01_Shoot_イザーク・ジュール_(CV__関_智一).txt"
+    }
+  ]
+}
